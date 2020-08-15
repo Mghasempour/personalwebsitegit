@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  max-width: 50em;
+  margin: auto;
+  color: #333;
+  border: 5px solid #800000; 
+  box-shadow: 10px 10px #004C99;
+  text-align: center;
+  padding: 20px;
+}
+.dark {
+  background: #333;
+  color: #fff;
+}
+img {
+height: 200px;
+border-radius:5%
+}
+
+html{
+margin: 16px;
+}
+.social a {
+  text-decoration: none;
+  color: #333;
+  margin: 8px;
+}
+
+.social a:hover {
+  opacity: .8;
+}
